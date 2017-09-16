@@ -1,0 +1,145 @@
+<!Doctype html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <title>Artist Portfolio</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="style/reset.css">
+  <link rel="stylesheet" type="text/css" href="style/style.css">
+  <link href="style/jquery.bxslider.css" rel="stylesheet" />
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <header>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container-fluid blue">
+        <div class="container">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <div class="logo">
+              <a href="index.html"><img src="images/img/logo.png"></a>
+            </div><!--end.logo-->
+          </div>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li class="hidden">
+                <a href="#page-top"></a>
+              </li>
+              <li class="dropdown">
+                <a class="active" href="index.html" data-toggle="dropdown">Home<span class="caret "></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="landscape.html">Landscape</a></li>
+                  <li><a href="portraits.html">Portraits</a></li>
+                  <li><a href="still-life.html">Still Life</a></li>
+                  <li><a href="abstract-art.html">Abstract</a></li>
+                  <li><a href="architecture.html">Architecture</a></li>
+                  <li><a href="other.html">Other</a></li>
+                </ul>
+              </li>
+              <li class="page-scroll">
+                <a href="about.html">About</a>
+              </li>
+              <li class="page-scroll">
+                <a href="contact.html">Contact</a>
+              </li>
+            </ul>
+          </div>
+        </div> <!-- CONTAINER -->
+      </div>
+      <!-- /.container-fluid -->
+    </nav>
+  </header>
+  <div class="main">
+   <div class="work">
+    <div class ="slider">
+      <div class="slider-vrapper">
+        <ul class="bxslider">
+          <li><img src="images/slider/pic1.png" /></li>
+          <li><img src="images/slider/pic2.png" /></li>
+          <li><img src="images/slider/pic3.png" /></li>
+          <li><img src="images/slider/pic4.png" /></li>
+        </ul>
+      </div><!--end.slider-vrapper-->
+    </div><!--end.slider-->
+    <div class="work-wrapper">
+      <div class="view view-first">
+        <a href="landscape.html"><img src="images/landscapes/Mountain way V.png"/></a>
+        <div class="mask">
+          <h2>Landscape</h2>
+        </div>
+      </div> 
+      <div class="view view-first">
+       <a href="portraits.html"><img src="images/portraits/Portrait VIII.png" style="height:100%"></a>
+       <div class="mask">
+        <h2>Portraits</h2>
+      </div>
+    </div>
+    <div class="view view-first">
+     <a href="still-life.html"><img src="images/still-life/still-life-V.png" /></a>
+     <div class="mask">
+      <h2>Still Life</h2>
+    </div>
+  </div>
+  <div class="view view-first">
+   <a href="abstract-art.html"><img src="images/abstractart/abstract1.png"/></a>
+   <div class="mask">
+    <h2>Absract Art</h2>
+  </div>
+</div>
+<div class="view view-first">
+ <a href="architecture.html"><img src="images/architecture/St_Marry.png"/></a>
+ <div class="mask">
+  <h2>Architecture</h2>
+</div>
+</div>
+<div class="view view-first">
+ <a href="other.html"><img src="images/other/igraorci.png"/></a>
+ <div class="mask">
+  <h2>Other picture</h2>
+</div>
+</div>
+<div class="clear"></div>
+</div><!--End.work-wrapper-->
+</div><!--End.work-->
+</div><!--End.main-->
+<footer>
+  <div class="container">
+    <small>&copy; 2015 Darko Hristovski</small>
+    <div class="socials">
+      <ul class="list-inline">
+        <li>
+          <a href="http://facebook.com" target='_blank' class="btn-social btn-outline"><i class="fa fa-fw fa-facebook fa-2x"></i></a>
+        </li>
+        <li>
+          <a href="http://twitter.com" target='_blank' class="btn-social btn-outline"><i class="fa fa-fw fa-twitter fa-2x fa-square-o" ></i></a>
+        </li>
+        <li>
+          <a href="http://linkedin.com" target='_blank' class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin fa-2x fa-square-o"></i></a>
+        </li>
+      </ul>
+    </div><!--end.socials-->
+  </div>
+</footer>
+</div><!--End.global-->
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<!-- bxSlider Javascript file -->
+<script src="script/jquery.bxslider.min.js"></script>
+<!-- bxSlider CSS file -->
+<script>
+$(document).ready(function(){
+  $('.bxslider').bxSlider({
+    auto: true,
+  });
+});
+</script>
+</body>
+</html>

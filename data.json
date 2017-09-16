@@ -1,0 +1,479 @@
+{ "portraits" : [
+  {
+    "name":"Portrait I",
+    "shortname":"Portrait I",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait II",
+    "shortname":"Portrait II",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+  {
+    "name":"Portrait III",
+    "shortname":"Portrait III",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+  {
+    "name":"Self portrait in red",
+    "shortname":"Self portrait in red",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait V",
+    "shortname":"Portrait V",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait VI",
+    "shortname":"Portrait VI",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait VII",
+    "shortname":"Portrait VII",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait VIII",
+    "shortname":"Portrait VIII",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Self-portrait",
+    "shortname":"Self-portrait",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Self-portrait II",
+    "shortname":"Self-portrait II",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Portrait IX",
+    "shortname":"Portrait IX",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Suzana",
+    "shortname":"Suzana",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+],
+
+ "abstractart":[
+  
+ {
+    "name":"Red Abstract",
+    "shortname":"Red Abstract",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Volcano",
+    "shortname":"Volcano-Acrylic-on-cardboard",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+
+  {
+    "name":"Starlight Night",
+    "shortname":"Starlit-night",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Chaos",
+    "shortname":"Chaos",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"The Eye",
+    "shortname":"Eye",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Abstract",
+    "shortname":"abstract",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"99",
+    "shortname":"99",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Green",
+    "shortname":"Green",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Abstract1",
+    "shortname":"abstract1",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Abstract2",
+    "shortname":"abstract2",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Abstract3",
+    "shortname":"abstract3",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Eucalypt",
+    "shortname":"Eucalypt",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+
+    ],
+
+     "landscapes":[
+  
+ {
+    "name":"Mountain way I",
+    "shortname":"Mountain way I",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain way II",
+    "shortname":"Mountain way II",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+
+  {
+    "name":"Mountain way III",
+    "shortname":"Mountain way III",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain way IV",
+    "shortname":"Mountain way IV",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain way V",
+    "shortname":"Mountain way V",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain way VI",
+    "shortname":"Mountain way VI",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain way VI",
+    "shortname":"Mountain way VII",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+   {
+    "name":"Spring",
+    "shortname":"spring",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Lake Mountains",
+    "shortname":"Lake-Mountains",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Spring VS Autumn",
+    "shortname":"Spring VS Autumn",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Mountain",
+    "shortname":"mountain",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Landscape",
+    "shortname":"Landscape",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+
+
+    ], "stillife":[
+  
+ {
+    "name":"Ice",
+    "shortname":"Ice",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Spoon",
+    "shortname":"spoon",
+    "technique":"Oil on canvas",
+    "year":"2010"
+  },
+
+  {
+    "name":"My-cats",
+    "shortname":"My-cats-",
+    "year":"2012"
+  },
+  {
+    "name":"Chaos",
+    "shortname":"Chaos",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"''Bottle, jar, glass and apple",
+    "shortname":"''Bottle,-jar,-glass-and-apple",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Still life II",
+    "shortname":"Still-life-Oil-II",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Still life I",
+    "shortname":"Still-life-I",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Still-life II",
+    "shortname":"Still-life-and-sculpture-Tempera-on-cardboard",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Still-life-III",
+    "shortname":"Still-life-III",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Still-life-V",
+    "shortname":"still-life-V",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Plank mortar and pestle",
+    "shortname":"Plank-mortar-and-pestle-Oil-on-MDF",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }, {
+    "name":"Still life",
+    "shortname":"still-life",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+
+    ],
+
+ "architecture":[
+  
+ {
+    "name":"Church",
+    "shortname":"church",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"House Landscape",
+    "shortname":"HouseLandscape",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+
+  {
+    "name":"Autmn",
+    "shortname":"Autmn",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Old Bazaar",
+    "shortname":"old-bazaar",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Picture",
+    "shortname":"picture",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Picture2",
+    "shortname":"picture2",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"St Marry",
+    "shortname":"St_Marry",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Village Houses",
+    "shortname":"village_houses",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Two Houses",
+    "shortname":"TwoHouses",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Street Buildings",
+    "shortname":"Street-buildings",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Italy Streets",
+    "shortname":"italy-streets",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Two Houses",
+    "shortname":"TwoHouses",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+    ],
+
+ "other":[
+  
+ {
+    "name":"Bathroom",
+    "shortname":"Bathroom",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Spoon",
+    "shortname":"spoon",
+    "technique":"oil on canvas",
+    "year":"2010"
+  },
+
+  {
+    "name":"Otsjaj",
+    "shortname":"otsjaj",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Reflection",
+    "shortname":"reflection",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Reproduction",
+    "shortname":"Reproduction",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Light",
+    "shortname":"light",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"igraorci",
+    "shortname":"igraorci",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+    "name":"Grandparents",
+    "shortname":"grandparents",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Picture1",
+    "shortname":"picture1",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Palmstreet",
+    "shortname":"palmstreet",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"No name",
+    "shortname":"Noname",
+    "technique":"oil on canvas",
+    "year":"2012"
+  },
+  {
+
+    "name":"Reflection",
+    "shortname":"reflection",
+    "technique":"oil on canvas",
+    "year":"2012"
+  }
+    ]
+
+
+
+
+
+
+
+}
+
+
+
+
+
